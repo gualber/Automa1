@@ -9,6 +9,6 @@ package PacoteCadastro;
  *
  * @author egual
  */
-public class CadastroProd {
+public class ClassServ {
     
 }

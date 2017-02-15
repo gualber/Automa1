@@ -4,7 +4,7 @@ package PacoteCadastro;
 /**
  *
  * @author egualbert*/
-public class CadastroCliente {
+public class ClassCliente {
     String nome;
     
 }
